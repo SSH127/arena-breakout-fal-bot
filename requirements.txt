@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+pyautogui
+pywin32
+rapidocr-onnxruntime
+pillow
